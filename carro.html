@@ -20,23 +20,29 @@
     </div>
 
     <div class="producto">
-        <a href="carrito.html"><img src="img/compra.png" alt="" width="15vw"> Carritos 3</a>
+        <a href="carrito.html">
+            <img src="img/compra.png" alt="" width="15vw"> Carritos
+            <span class="badge">1</span>
+        </a>
     </div>
-
+    <footer>&copy 2023 Campus</footer>
     <div class="principal">
         <h2>Carrito</h2>
         <section class="section1">
-            <div>Nombre <br> Pantalones 01</div>
-            <div>Cantidad <br>2</div>
-            <div>Precio <br>$ 1.000</div>
-            <div>Subtotal <br>$ 2.000</div>
+            <img src="img/pantalon2.webp" alt="" width="50vw" height="50vh">
+            <div>Nombre <br>Pantalon Camuflado, De Bolsillos 100% Dreal</div>
+            <div>Cantidad <br><span class="cantidad">2</span></div>
+            <div>Precio <br>$1.000</div>
+            <div>Subtotal <br>$2.000</div>
             <img onclick="location.href='vaciar.html'" src="img/delete.png" alt="" width="20vw" height="20vh">
         </section>
         <button onclick="location.href='vaciar.html'" class="button1">Vaciar Carrito</button>
         <div class="texto">
-            <button class="button2">Total <br> $ 2.000 <br>Comprar Ahora</button>
+            <button class="button2">
+                Total <br> $ 2.000
+                <span onclick="location.href='index.html'" class="badge">Comprar Ahora</span>
+            </button>
         </div>
     </div>
 </body>
-
 </html>
