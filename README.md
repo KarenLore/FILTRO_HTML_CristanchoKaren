@@ -1,4 +1,4 @@
-# CampusShop
+# 👕CampusShop
 Este proyecto es de una tienda en línea llamada CampusShop, la cual tiene como propósito vender ropa de diversas categorías. Para la creación de dicho proyecto se utilizó tecnologías de HTML y CSS.
 
 ## Tabla de contenidos
@@ -12,7 +12,7 @@ Este proyecto es de una tienda en línea llamada CampusShop, la cual tiene como 
 | 6 | Pantalones |
 | 7 | Vaciar |
 
-### Ejecución
+### ✔️Ejecución
 Deberas ejecutar el comando git clone para copiar el repositorio
   [Link](https://github.com/KarenLore/FILTRO_HTML_CristanchoKaren.git)
 
@@ -86,3 +86,8 @@ Hecho por ***Karen Lorena Cristancho Caceres***
 
 > [!CAUTION]
 > No sobrecargues tu página con demasiados elementos visuales. Esto podría distraer al usuario y hacer que la página se sienta o se vea desordenada.
+
+### 📞Contacto
+  Para preguntas, sugerencias o más información sobre el proyecto, no dudes en ponerte en contacto conmigo:
+  Nombre: Karen Lorena Cristancho
+  Email: karenlorenacriscaceres@gmail.com
